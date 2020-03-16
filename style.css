@@ -1,0 +1,36 @@
+.a{
+	margin-left:20pt;
+}
+.b { 
+    
+	margin-left:550pt;
+}
+.img-right{
+	float:right;
+	margin-bottom:20px;
+	margin-right:10px;
+	margin-left:10px;
+}
+.img-left1{
+    float:left;
+margin-top: 20px;
+margin-bottom:20px;
+margin-left:10px;
+}
+body{
+    background-color: #F0FCFA;
+}
+.d{
+    margin-left: 60pt;
+}
+ul.ab {
+    list-style-type: circle;
+ }
+ div.#AugustasGucaga {
+    background-color: red;
+    
+    margin-top:15pt;
+    margin-left: 700pt;
+
+  }
+  
